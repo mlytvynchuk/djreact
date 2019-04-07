@@ -85,9 +85,10 @@ target/
 *.pyc
 __pycache__/
 local_settings.py
-
+Venv/
 .env
 db.sqlite3
+*.sqlite3
 
 
 
